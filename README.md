@@ -7,7 +7,7 @@
 https://www.overleaf.com/3625645274tctkxvwypzgy#ebb886
 ```
 
-##  Caggle Link
+##  Kaggle Link
 
 ```
 https://www.kaggle.com/code/abuzakhan01/notebook770ca8ccee
